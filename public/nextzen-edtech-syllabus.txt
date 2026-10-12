@@ -1,0 +1,7 @@
+NextZen Technos EdTech Syllabus
+
+Industry-Oriented Data Analyst Program
+Duration: 8 weeks
+Mode: Live + recorded
+Curriculum: Excel with AI, SQL, Python, Power BI, NumPy, Pandas, Data Analysis, Statistics
+Career support: Projects, portfolio, resume, interview preparation, community alerts.
